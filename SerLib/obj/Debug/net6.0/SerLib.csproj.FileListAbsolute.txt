@@ -1,0 +1,12 @@
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\SerLib.csproj.AssemblyReference.cache
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\SerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\SerLib.AssemblyInfoInputs.cache
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\SerLib.AssemblyInfo.cs
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\SerLib.csproj.CoreCompileInputs.cache
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\bin\Debug\net6.0\SerLib.deps.json
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\bin\Debug\net6.0\SerLib.dll
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\bin\Debug\net6.0\SerLib.pdb
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\SerLib.dll
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\refint\SerLib.dll
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\SerLib.pdb
+C:\Users\Sveklich\source\repos\WpfApp9\SerLib\obj\Debug\net6.0\ref\SerLib.dll

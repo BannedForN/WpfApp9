@@ -1,0 +1,16 @@
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\FullDictionary.baml
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\CustomLib_MarkupCompile.cache
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\bin\Debug\net6.0-windows\CustomLib.deps.json
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\bin\Debug\net6.0-windows\CustomLib.dll
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\bin\Debug\net6.0-windows\CustomLib.pdb
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\Dictionaries\lang.en-en.baml
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\Dictionaries\lang.ru-ru.baml
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\CustomLib.g.resources
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\CustomLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\CustomLib.AssemblyInfoInputs.cache
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\CustomLib.AssemblyInfo.cs
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\CustomLib.csproj.CoreCompileInputs.cache
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\CustomLib.dll
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\refint\CustomLib.dll
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\CustomLib.pdb
+C:\Users\Sveklich\source\repos\WpfApp9\CustomLib\obj\Debug\net6.0-windows\ref\CustomLib.dll

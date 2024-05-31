@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUEEfk15NNisqc+KvL4FJHxU2uZBSFwVQ5liuM2YvV5GL1d8JCszAG+nn77yhdwe3ijpfkF+WykDCjBSy6YOwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sveklich\\source\\repos\\WpfApp9\\SerLib\\SerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sveklich\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
